@@ -1,0 +1,4 @@
+Algorytm babelkowy: 37300 ns
+Algorytm Inserion Sort (wstawiania): 1400 ns
+Algorytm Selection Sort: 6200 ns
+Algorytm QuickSort: 3400 ns

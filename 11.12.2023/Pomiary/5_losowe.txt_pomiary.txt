@@ -1,0 +1,11 @@
+Losowe	5 elementów	10 elementów	25 elementów	50 elementów	100 elementów	250 elementów	500 elementów
+Algorytm babelkowy	 1200 ns	 2000 ns	 6600 ns	20600	 70200 ns	 510200 ns	 1396100 ns
+Algorytm Inserion Sort (wstawiania)	 200 ns	 1000 ns	 2300 ns	1400	 4000 ns	 12700 ns	 24700 ns
+Algorytm Selection Sort	 500 ns	 700 ns	 2000 ns	5400	 20800 ns	 170200 ns	 989200 ns
+Algorytm QuickSort	 400 ns	 500 ns	 2200 ns	3400	 7400 ns	 152600 ns	 40500 ns
+							
+Optymistyczne	5 elementów	10 elementów	25 elementów	50 elementów	100 elementów	250 elementów	500 elementów
+Algorytm babelkowy	 1000 ns	 1900 ns					
+Algorytm Inserion Sort (wstawiania)	 200 ns	 400 ns					
+Algorytm Selection Sort	 400 ns	 800 ns					
+Algorytm QuickSort	 300 ns	 600 ns					
